@@ -15,7 +15,7 @@ st.set_page_config(layout="wide")
 
 # In[259]:
 
-main_path = "/Users/mino/Desktop/Data science/ecommerce/starbucks/"
+main_path = ""
 starbucks_1 = pd.read_csv(main_path+"Starbucks_satisfactory_survey.csv")
 starbucks_2 = pd.read_csv(main_path+"Starbucks_encode.csv")
 
